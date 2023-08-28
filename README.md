@@ -164,10 +164,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
-without obstracle
+without obstacles
  ![WhatsApp Image 2023-08-26 at 16 21 26](https://github.com/Sudharsanram/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119393980/a68a5262-6d72-4f45-a608-ff76ff93cdd7)
 
-with obstracle
+with obstacles
  ![WhatsApp Image 2023-08-26 at 16 21 25](https://github.com/Sudharsanram/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119393980/c0287e11-778d-40aa-9639-8c624600d9e7)
 
  
